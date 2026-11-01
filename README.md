@@ -130,14 +130,8 @@ A creative web experience built to celebrate and appreciate teachers through an 
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HarshProDev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshProDev&layout=compact&hide_border=true&theme=github_dark"
-    height="165"
-  />
+<img src="./profile/stats.svg" height="165" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
