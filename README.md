@@ -73,6 +73,14 @@ I'm an aspiring Software Engineer and Full-Stack Developer interested in buildin
 ### 01. VeyraSense
 **ESP32-Based Physiological Monitoring & AI-Assisted Analysis**
 
+<a href="https://veyrasense.vercel.app/">
+  <img
+    src="./assets/projects/veyra-sense.webp"
+    width="100%"
+    alt="View VeyraSense"
+  />
+</a>
+
 An experimental hardware-software project that integrates pulse and GSR sensors with an ESP32 to collect physiological signals. The web dashboard visualizes incoming data and uses API-based AI integration to provide suggestions and generate reports.
 
 - Assembled and integrated the hardware.
@@ -89,6 +97,14 @@ An experimental hardware-software project that integrates pulse and GSR sensors 
 ### 02. Harsh Mentor
 **Affiliate Marketing & Lead Generation Platform**
 
+<a href="https://harshmentor-in.vercel.app/">
+  <img
+    src="./assets/projects/harsh-mentor.png"
+    width="100%"
+    alt="View Harsh Mentor"
+  />
+</a>
+
 A lead-generation website designed to introduce visitors to affiliate marketing and collect potential leads.
 
 - Built the frontend and lead-generation experience.
@@ -104,6 +120,14 @@ A lead-generation website designed to introduce visitors to affiliate marketing 
 ### 03. Your First Affiliate Step
 **Affiliate Marketing Landing Page**
 
+<a href="https://your-first-affiliate-step-harshmentor-in.pages.dev/">
+  <img
+    src="./assets/projects/affiliate-step.png"
+    width="100%"
+    alt="View Your First Affiliate Step"
+  />
+</a>
+
 A responsive website designed to help visitors take their first step into affiliate marketing.
 
 - Lead-capture form with name, email, phone number, and discovery platform.
@@ -118,6 +142,14 @@ A responsive website designed to help visitors take their first step into affili
 
 ### 04. Happy Teacher's Day
 **Interactive Frontend Experience**
+
+<a href="https://happy-teachers-day-psi.vercel.app/">
+  <img
+    src="./assets/projects/teachers-day.webp"
+    width="100%"
+    alt="View Teachers Day Gift"
+  />
+</a>
 
 A creative web experience built to celebrate and appreciate teachers through an interactive digital presentation.
 
