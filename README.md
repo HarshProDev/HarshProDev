@@ -1,121 +1,179 @@
+<!-- INTRODUCTION -->
+<h1 align="center">Hi, I'm Harsh Bhukal 👋</h1>
 
-<div align="center">
+<h3 align="center">
+  Aspiring Software Engineer · Full-Stack Developer
+</h3>
 
-# HARSH BHUKAL
+<p align="center">
+  Building practical digital products, exploring modern technologies,
+  and growing through hands-on engineering.
+</p>
 
-### Aspiring Software Engineer | Full-Stack Developer
-
-Building digital experiences through engineering, creativity and continuous learning.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/harshbhukal-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=flat-square&logo=vercel&logoColor=black)](https://harshmentor-in.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/HarshProDev)
-
-</div>
-
----
-
-## About
-
-I'm an aspiring Software Engineer focused on Full-Stack Development, modern web technologies and building practical digital products.
-
-I enjoy understanding how systems work, experimenting with new technologies and turning ideas into functional applications.
-
-- Focused on Full-Stack Development and Software Engineering
-- Interested in backend architecture, AI integrations and interactive applications
-- Currently strengthening JavaScript, TypeScript, Next.js and DSA
-- Exploring cloud infrastructure, databases and scalable systems
-- Open to internships, collaborations and development opportunities
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshbhukal-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HarshProDev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Technology Stack
+## About Me
 
-### Languages
+I'm an aspiring Software Engineer and Full-Stack Developer interested in building useful, well-designed applications and understanding how software works beyond the user interface.
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp)
+- 🎓 Pursuing **B.Sc. Physical Science** at Kamla Memorial Government College, affiliated with CRSU.
+- 💻 Working with modern web technologies and full-stack development.
+- 🧩 Interested in software engineering, backend systems, and problem-solving.
+- 🔬 Building projects that combine software, hardware, and AI integrations.
+- 📚 Currently strengthening JavaScript, TypeScript, Next.js, backend engineering, and DSA.
+- 🎯 Open to software engineering internships, part-time opportunities, and collaborations.
 
-### Frameworks & Libraries
+---
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,threejs,framer)
+## Tech Stack
 
-### Databases & Platforms
+### Languages & Core Technologies
 
-![Databases](https://skillicons.dev/icons?i=mongodb,supabase)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp&theme=dark" />
+</p>
 
-### Tools & Creative Technologies
+### Frontend Development
 
-![Tools](https://skillicons.dev/icons?i=git,github,linux,blender)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs&theme=dark" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,blender&theme=dark" />
+</p>
 
 ### Currently Exploring
 
-![Learning](https://skillicons.dev/icons?i=java,postgres,redis,docker,aws)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,java&theme=dark" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### 01 — Harsh Mentor
+### 01. VeyraSense
+**ESP32-Based Physiological Monitoring & AI-Assisted Analysis**
 
-A lead-generation platform designed to engage visitors, communicate value and capture potential leads.
+An experimental hardware-software project that integrates pulse and GSR sensors with an ESP32 to collect physiological signals. The web dashboard visualizes incoming data and uses API-based AI integration to provide suggestions and generate reports.
 
-**Stack:** React · Vite · JavaScript · MongoDB Atlas · Vercel
+- Assembled and integrated the hardware.
+- Worked on sensor integration and system-level development.
+- Contributed approximately 85% of the overall project.
+- Currently strengthening firmware development.
 
-[Live Demo](https://harshmentor-in.vercel.app/)
+**Technologies:** ESP32 · Pulse Sensor · GSR Sensor · TypeScript · APIs · AI Integration
 
-### 02 — VeyraSense
-
-An ESP32-based physiological monitoring project integrating Pulse and GSR sensors with AI-powered analysis.
-
-Features include real-time signal visualization, stress-level monitoring and automated report generation.
-
-**Stack:** TypeScript · ESP32 · Pulse Sensor · GSR Sensor · APIs · AI Integration
-
-[Live Demo](https://veyrasense.vercel.app/)
-
-### 03 — Teacher's Day
-
-An interactive web-based project developed as a creative frontend experience.
-
-**Stack:** HTML · CSS · JavaScript / TypeScript
-
-[Live Demo](https://happy-teachers-day-psi.vercel.app/)
+[Live Demo](https://veyrasense.vercel.app/) · [GitHub Repository](https://github.com/HarshProDev/veyra-sense)
 
 ---
 
-## GitHub Analytics
+### 02. Harsh Mentor
+**Affiliate Marketing & Lead Generation Platform**
 
-<div align="center">
+A lead-generation website designed to introduce visitors to affiliate marketing and collect potential leads.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshProDev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+- Built the frontend and lead-generation experience.
+- Integrated backend API routes and MongoDB Atlas for lead storage.
+- Worked on form handling and deployment.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshProDev&layout=compact&theme=transparent&hide_border=true)
+**Technologies:** React · Vite · JavaScript · MongoDB Atlas · Vercel
 
-![Streak Stats](https://streak-stats.demolab.com?user=HarshProDev&theme=transparent&hide_border=true)
+[Live Demo](https://harshmentor-in.vercel.app/)
 
-</div>
+---
+
+### 03. Your First Affiliate Step
+**Affiliate Marketing Landing Page**
+
+A responsive website designed to help visitors take their first step into affiliate marketing.
+
+- Lead-capture form with name, email, phone number, and discovery platform.
+- Integrated Google Sheets for lead storage.
+- Deployed using Cloudflare Pages.
+
+**Technologies:** HTML · CSS · JavaScript · Google Sheets · Cloudflare Pages
+
+[Live Demo](https://your-first-affiliate-step-harshmentor-in.pages.dev/)
+
+---
+
+### 04. Happy Teacher's Day
+**Interactive Frontend Experience**
+
+A creative web experience built to celebrate and appreciate teachers through an interactive digital presentation.
+
+**Technologies:** TypeScript · Frontend Development
+
+[Live Demo](https://happy-teachers-day-psi.vercel.app/) · [GitHub Repository](https://github.com/HarshProDev/Happy-Teachers-Day)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HarshProDev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshProDev&layout=compact&hide_border=true&theme=github_dark"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HarshProDev&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 ---
 
 ## Beyond Code
 
-Technology is only one part of my interests.
+I also enjoy exploring creative and entrepreneurial fields:
 
-I also explore:
-
-- Digital Marketing & Content Creation
-- Video Editing & Creative Media
-- Entrepreneurship & Product Development
-- 3D Design & Interactive Experiences
+- 🎨 Visual design and creative experimentation
+- 🎬 Video editing and content creation
+- 📈 Digital marketing and YouTube marketing
+- 🚀 Entrepreneurship and product building
 
 ---
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/harshbhukal-dev/) · [GitHub](https://github.com/HarshProDev)
+I'm always interested in learning from other developers, discussing ideas, collaborating on projects, and exploring opportunities in software engineering.
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshbhukal-dev/">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/HarshProDev">
+    GitHub
+  </a>
+</p>
 
-**Building. Learning. Engineering.**
-
-</div>
+<p align="center">
+  <i>Building consistently. Learning continuously. Engineering with purpose.</i>
+</p>
